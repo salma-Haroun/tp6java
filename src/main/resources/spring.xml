@@ -13,7 +13,7 @@
 
     </bean>
     <bean id="repository" class="cigma.pfe.repositories.ClientRepositoryImpl" scope="prototype">
-
+        
     </bean>
 
 </beans>
